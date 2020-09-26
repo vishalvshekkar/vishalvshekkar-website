@@ -1,7 +1,7 @@
 ---
 title: Archiving and Unarchiving Swift Structure Instances — Revisited
 date: "2015-12-08T22:12:03.284Z"
-description: "Hello World"
+description: "A post illustrating how to archive and unarchive structures in Swift."
 ---
 
 ![A cover image showing a grid of archival drawers](images/1_9Ss8_0jGEJjNk5gXMFdEtQ.jpeg)
