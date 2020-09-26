@@ -53,11 +53,7 @@ const Bio = () => {
       )}
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
+          As a technologist who is passionate about creating products that invoke emotions, I have helped build over 18 products. I deeply involve myself in the architecture, planning, and development phases of products that employ both machine learning and platform development technologies. In my free time, I dabble in design and collect vinyl records.
         </p>
       )}
     </div>
